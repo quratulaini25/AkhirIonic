@@ -1,0 +1,7 @@
+{
+  "name": "AkhirIonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
